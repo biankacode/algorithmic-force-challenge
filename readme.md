@@ -1,4 +1,36 @@
 
+# Instrucciones 
+# ¡Bienvenido al Desafío Jedi: Fuerza Algorítmica!
+
+¡Saludos, joven Padawan! Estás a punto de embarcarte en una épica aventura a través de la galaxia de desafíos de programación inspirados en la legendaria saga de Star Wars. Mientras perfeccionas tus habilidades en el camino del código, enfrentarás pruebas diseñadas para poner a prueba tu conocimiento, lógica y habilidades de resolución de problemas.
+
+## Instrucciones
+
+1. **Elige Tu Rango Jedi:**  
+   Evalúa tu nivel de habilidad actual y selecciona tu rango Jedi:
+   - Iniciado Jedi
+   - Padawan Jedi
+   - Caballero Jedi
+   - Maestro Jedi
+   - Gran Maestro Jedi
+
+2. **Completa los Ejercicios:**  
+   Según el rango elegido, encontrarás una serie de ejercicios para resolver. Selecciona tu lenguaje de programación preferido y comienza a enfrentar los desafíos.
+
+3. **Convención de Nombres de Archivos:**  
+   Al enviar tus soluciones, asegúrate de seguir la siguiente convención de nombres para tus archivos:  
+   `número_nombre.extensión`  
+   - **Número** se refiere al número del ejercicio.
+   - **Nombre** describe el ejercicio.
+   - **Extensión** es la extensión del archivo para el lenguaje de programación elegido.
+
+   **Ejemplo:**  
+   Si estás resolviendo el primer ejercicio, tu archivo debe llamarse:  
+   `1_el_enfrentamiento_con_el_imperio.py`
+
+¡Que la Fuerza te guíe en tu misión para convertirte en un Jedi de la programación!
+
+
 # Nivel 1: Iniciado Jedi
 
 ## 1. La suma de la Fuerza (Suma de números enteros)
