@@ -4,4 +4,3 @@ function suma(a,b) {
 }
 console.log(suma(1,4));
  
-

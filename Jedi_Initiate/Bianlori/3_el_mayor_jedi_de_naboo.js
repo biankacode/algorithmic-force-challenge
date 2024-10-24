@@ -24,5 +24,4 @@ let numeros = [8, 9, 12]
         console.log(`${numeros[1]} es mayor`);
     }else {
         console.log(`${numeros[2]} es mayor`);
-        
     }
