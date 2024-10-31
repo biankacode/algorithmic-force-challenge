@@ -12,17 +12,16 @@ La función debe recibir un número entero y determinar si es primo.
 Un número primo es aquel que solo es divisible por 1 y por sí mismo.
 Pista:
 Comprueba si el número es divisible por algún otro número que no sea 1 o él mismo. */
-
 function validarNum(num){
     let resultado =  num % 2
     
     if (resultado === 1){
-       console.log(" soy impar" + resultado );
+       console.log(num + " soy impar " + resultado  );
     }
     else{
-        console.log(" soy par" + resultado );
+        console.log(num + " soy par " + resultado );
     }
   return resultado
 }
- console.log(validarNum(6));
+(validarNum(2));
  
