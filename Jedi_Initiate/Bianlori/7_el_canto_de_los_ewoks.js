@@ -9,4 +9,4 @@ function contadorDeVocales(vocales) {
     return false
 
 }
-console.log(contadorDeVocales("gato"))
+console.log(contadorDeVocales("GATO"))
