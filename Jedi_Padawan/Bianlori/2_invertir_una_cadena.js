@@ -54,17 +54,14 @@ let numeritos = 0
 
 let cadenaTexto = "El perro canta"
 
-
+ 
  function invertitCadena(cadena) {
-    for (let index = 0; index < cadena.length; index ++){
-        const dividir = cadenaTexto.split('');
-        /* console.log(dividir); */
-        const invertir  = dividir.reverse();
-      /*   console.log(invertir); */
-        const unir = invertir.join('');
-        console.log(unir);
-        return unir 
+    let cadenaInvertida = "";    
+    for (let i = cadena.length -1 ; i >= 0 ; i --){  
+       cadenaInvertida  = cadenaInvertida + cadena[i] /*  */
+       
     }
-
+    return cadenaInvertida
  }
-invertitCadena(cadenaTexto)
+console.log(invertitCadena(cadenaTexto));
+ 
