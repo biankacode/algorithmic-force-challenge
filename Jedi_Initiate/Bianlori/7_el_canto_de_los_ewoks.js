@@ -22,9 +22,9 @@ function contadorDeVocales(canto) {
     let vocales = "aeiouAEIOU"
     let numVocales = 0
     for (let i = 0; i < canto.length; i++){
-     /* console.log("canto",canto[i]); */
+     console.log("canto",canto[i]);
         for (let j = 0; j < vocales.length; j++) {
-       /* console.log("vocales",vocales[j]); */
+       console.log("vocales",vocales[j]);
             if ( canto[i] === vocales[j] ){
                 numVocales = numVocales + 1
        }
